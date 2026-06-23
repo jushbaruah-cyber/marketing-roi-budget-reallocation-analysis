@@ -194,6 +194,23 @@ This project helps organizations:
 - Business Problem Solving
 
 ---
+## Project Highlights
+
+✅ End-to-End Python ETL Pipeline
+
+✅ Marketing ROI & Performance Analysis
+
+✅ Budget Optimization Framework
+
+✅ Power BI Dashboard Development
+
+✅ Business Recommendation Engine
+
+✅ Data-Driven Decision Support
+
+✅ Application of Generative AI Concepts
+
+✅ Executive-Level Analytical Storytelling
 
 ## Project Outcome
 
@@ -225,9 +242,13 @@ Successfully developed an end-to-end analytics solution that transformed raw mar
 
 ## Contact
 
-**LinkedIn:** *(https://www.linkedin.com/in/jusmita-baruah-50457838/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2I7l1BQ2Te62jNktAs3hfg%3D%3D)*
+### Connect With Me
 
-**GitHub:** *(https://github.com/jushbaruah)*
+🔗 LinkedIn:
+https://www.linkedin.com/in/jusmita-baruah-50457838/
+
+💻 GitHub:
+https://github.com/jushbaruah-cyber
 
 ---
 
