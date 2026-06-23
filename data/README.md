@@ -3,7 +3,6 @@
 This folder contains datasets used for Marketing ROI & Budget Reallocation Analysis.
 
 ## Files
-
 - campaign_roi_summary.csv
 - fact_campaign_daily.csv
 - fact_channel_daily.csv
